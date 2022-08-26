@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-facts-light-dark/static/css/main.181301e6.css",
+    "main.js": "/react-facts-light-dark/static/js/main.11d3ac8f.js",
+    "static/js/787.5732a972.chunk.js": "/react-facts-light-dark/static/js/787.5732a972.chunk.js",
+    "index.html": "/react-facts-light-dark/index.html",
+    "main.181301e6.css.map": "/react-facts-light-dark/static/css/main.181301e6.css.map",
+    "main.11d3ac8f.js.map": "/react-facts-light-dark/static/js/main.11d3ac8f.js.map",
+    "787.5732a972.chunk.js.map": "/react-facts-light-dark/static/js/787.5732a972.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.181301e6.css",
+    "static/js/main.11d3ac8f.js"
+  ]
+}
